@@ -2,7 +2,7 @@
 
 ![Blog cover](/images/cover.png)
 
-This project used Medusa as the headless eCommerce backend and Novu to send notifications to customers effectively. Learn more about this project from the [blog post](https://).
+This project used Medusa as the headless eCommerce backend and Novu to send notifications to customers effectively, when orders are placed. Learn more about this project from the [blog post](https://).
 
 ## Resources
 
